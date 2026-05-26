@@ -109,7 +109,7 @@ src/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/shashankshuklaa/celestia-ai-astrology.git
+[git clone https://github.com/shashankshuklaa/celestia-ai-astrology.git](https://github.com/shashankshuklaa/celestia-application.git)
 ```
 
 ---
